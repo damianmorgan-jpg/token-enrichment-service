@@ -1,0 +1,31 @@
+{
+  "alice": {
+    "primaryMsisdn": "64210000001",
+    "onenz_acs": {
+      "c": true,
+      "roles": {
+        "ow_sb_ba": "482881324;373396143",
+        "ow_sb_sa": "642108648541",
+        "ow_sb_ca": "789012345"
+      }
+    }
+  },
+  "bob": {
+    "primaryMsisdn": "64210000002",
+    "onenz_acs": {
+      "c": true,
+      "roles": {
+        "ow_sf_ba": "582881325",
+        "ow_sf_sa": "742108648542",
+        "ow_sf_ca": "889012346;990123457"
+      }
+    }
+  },
+  "charlie": {
+    "primaryMsisdn": "64210000003",
+    "onenz_acs": {
+      "c": false,
+      "roles": {}
+    }
+  }
+}
