@@ -1,5 +1,5 @@
 {
-  "alice": {
+  "10001": {
     "primaryMsisdn": "64210000001",
     "onenz_acs": {
       "c": true,
@@ -10,7 +10,7 @@
       }
     }
   },
-  "bob": {
+  "10002": {
     "primaryMsisdn": "64210000002",
     "onenz_acs": {
       "c": true,
@@ -21,7 +21,7 @@
       }
     }
   },
-  "charlie": {
+  "10003": {
     "primaryMsisdn": "64210000003",
     "onenz_acs": {
       "c": false,
